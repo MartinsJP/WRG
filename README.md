@@ -1,2 +1,2 @@
 # WRG
-Website Responsivo Glasmorphismo
+Website Responsivo Glassmorphism
